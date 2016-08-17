@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Tavo\Desktop\PLATZI\Android\V de V\MaraRewards\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="C:\Users\Tavo\Desktop\PLATZI\Android\V de V\MaraRewards\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_dca3c19f0bb47848739d29cb398956301b5b49f6.jar" />
+    </item>
+
+</items>
